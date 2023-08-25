@@ -1,0 +1,41 @@
+# Arquivos gerados automaticamente
+__pycache__/
+*.py[cod]
+
+# Ambientes virtuais
+venv/
+env/
+.env
+.venv
+
+# Dependências instaladas
+lib/
+bin/
+include/
+*.egg-info/
+*.egg
+dist/
+build/
+*.pyc
+
+# Arquivos de configuração local
+settings.ini
+
+# Arquivos de registro
+*.log
+
+# Arquivos de IDE
+.vscode/
+.idea/
+*.iml
+
+# Arquivos de cache
+*.cache
+*.swp
+
+# Arquivos temporários
+*.tmp
+
+# Arquivos de usuário
+*.DS_Store
+Thumbs.db
