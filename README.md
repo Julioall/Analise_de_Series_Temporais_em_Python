@@ -39,8 +39,15 @@ Lembre-se de descomentar as linhas de código para ativar as funcionalidades des
 ```bash
 python analise_temporal.py
 ```
-Contribuindo
-Se você encontrar algum problema ou tiver sugestões para melhorias, por favor, abra uma issue ou envie um pull request.
+## Contribuição
 
-Licença
-Este projeto está licenciado sob a Licença MIT
+Contribuições são bem-vindas! Sinta-se à vontade para abrir um pull request com melhorias ou correções.
+
+## Contato
+
+Nome: Julio Alves
+E-mail: julio.all@outlook.com
+
+## Licença
+
+Este projeto está sob a licença [MIT](LICENSE). O conteúdo do projeto foi criado como parte do curso "Fundamentos de Linguagem Python para Análise de Dados e Data Science" da Data Science Academy. Para mais informações sobre o curso, visite: [Data Science Academy](https://www.datascienceacademy.com.br/).
